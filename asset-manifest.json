@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/neojayandong/static/css/main.9ab68289.chunk.css",
-    "main.js": "/neojayandong/static/js/main.f72b48a5.chunk.js",
-    "main.js.map": "/neojayandong/static/js/main.f72b48a5.chunk.js.map",
+    "main.js": "/neojayandong/static/js/main.29a70a58.chunk.js",
+    "main.js.map": "/neojayandong/static/js/main.29a70a58.chunk.js.map",
     "runtime-main.js": "/neojayandong/static/js/runtime-main.80c9b1db.js",
     "runtime-main.js.map": "/neojayandong/static/js/runtime-main.80c9b1db.js.map",
     "static/css/2.3655fe6d.chunk.css": "/neojayandong/static/css/2.3655fe6d.chunk.css",
-    "static/js/2.073e0a83.chunk.js": "/neojayandong/static/js/2.073e0a83.chunk.js",
-    "static/js/2.073e0a83.chunk.js.map": "/neojayandong/static/js/2.073e0a83.chunk.js.map",
+    "static/js/2.1abdb77f.chunk.js": "/neojayandong/static/js/2.1abdb77f.chunk.js",
+    "static/js/2.1abdb77f.chunk.js.map": "/neojayandong/static/js/2.1abdb77f.chunk.js.map",
     "index.html": "/neojayandong/index.html",
-    "precache-manifest.64aea9e4ff3d4f1545f5c628474e21ed.js": "/neojayandong/precache-manifest.64aea9e4ff3d4f1545f5c628474e21ed.js",
+    "precache-manifest.e92ae88e0313a1873274f59efceea2e2.js": "/neojayandong/precache-manifest.e92ae88e0313a1873274f59efceea2e2.js",
     "service-worker.js": "/neojayandong/service-worker.js",
     "static/css/2.3655fe6d.chunk.css.map": "/neojayandong/static/css/2.3655fe6d.chunk.css.map",
     "static/css/main.9ab68289.chunk.css.map": "/neojayandong/static/css/main.9ab68289.chunk.css.map",
@@ -20,6 +20,7 @@
     "static/media/me.jpg": "/neojayandong/static/media/me.117fa487.jpg",
     "static/media/nexus_sc.png": "/neojayandong/static/media/nexus_sc.ed46f1d6.png",
     "static/media/pilantropo_sc.jpg": "/neojayandong/static/media/pilantropo_sc.dbd82ac5.jpg",
+    "static/media/pokedex_sc.png": "/neojayandong/static/media/pokedex_sc.6ec4e6fc.png",
     "static/media/sitiouno_sc.jpg": "/neojayandong/static/media/sitiouno_sc.f618706c.jpg",
     "static/media/sv_sc.png": "/neojayandong/static/media/sv_sc.5ae45300.png",
     "static/media/white_keyboard.png": "/neojayandong/static/media/white_keyboard.c00e1949.png"
@@ -27,8 +28,8 @@
   "entrypoints": [
     "static/js/runtime-main.80c9b1db.js",
     "static/css/2.3655fe6d.chunk.css",
-    "static/js/2.073e0a83.chunk.js",
+    "static/js/2.1abdb77f.chunk.js",
     "static/css/main.9ab68289.chunk.css",
-    "static/js/main.f72b48a5.chunk.js"
+    "static/js/main.29a70a58.chunk.js"
   ]
 }

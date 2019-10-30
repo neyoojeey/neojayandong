@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "53f79622c44cc1bab4b0e6532d421827",
+    "revision": "f7ad47e8a764f9db5176eb18365b4410",
     "url": "/neojayandong/index.html"
   },
   {
-    "revision": "fcb40df2a8003980e051",
+    "revision": "b70aeb0e2bc5e7fe55ed",
     "url": "/neojayandong/static/css/2.3655fe6d.chunk.css"
   },
   {
-    "revision": "036cf5c2ebd9c3c53d7d",
+    "revision": "a7548682405c30e1a338",
     "url": "/neojayandong/static/css/main.9ab68289.chunk.css"
   },
   {
-    "revision": "fcb40df2a8003980e051",
-    "url": "/neojayandong/static/js/2.073e0a83.chunk.js"
+    "revision": "b70aeb0e2bc5e7fe55ed",
+    "url": "/neojayandong/static/js/2.1abdb77f.chunk.js"
   },
   {
-    "revision": "036cf5c2ebd9c3c53d7d",
-    "url": "/neojayandong/static/js/main.f72b48a5.chunk.js"
+    "revision": "a7548682405c30e1a338",
+    "url": "/neojayandong/static/js/main.29a70a58.chunk.js"
   },
   {
     "revision": "83f74e22aa090e7ab820",
@@ -106,6 +106,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "dbd82ac55e300644665069b633a084b9",
     "url": "/neojayandong/static/media/pilantropo_sc.dbd82ac5.jpg"
+  },
+  {
+    "revision": "6ec4e6fc35d78f535ece754259ab2841",
+    "url": "/neojayandong/static/media/pokedex_sc.6ec4e6fc.png"
   },
   {
     "revision": "f618706c3bcde3e54a31663858e6f711",
